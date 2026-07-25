@@ -1,2 +1,0 @@
-S001,Dhruv,17,AI/ML,290,25/07/2026,dhurvpatel@gmail.com,953*******
-S002,Masum,17,Machanical,280,25/07/2026,masumpatel@gmail.com,991*******
